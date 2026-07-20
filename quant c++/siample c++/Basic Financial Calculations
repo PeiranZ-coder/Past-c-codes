@@ -1,0 +1,5 @@
+I've been building a quantitative finance toolkit in C++ to strengthen my programming and financial modeling skills. 
+The six functions I implemented cover the complete lifecycle of investment analysis: from compound interest calculation (future value projection), 
+to risk metrics like annualized volatility and maximum drawdown, to advanced indicators such as Sharpe ratio and SMA trading signals.
+I also implemented a Monte Carlo simulation for stochastic price path modeling,
+demonstrating how C++ can efficiently handle complex financial computations with loops and array operations.
